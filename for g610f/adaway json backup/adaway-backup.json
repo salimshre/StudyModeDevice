@@ -1,0 +1,92 @@
+{
+    "sources": [
+        {
+            "url": "https:\/\/adaway.org\/hosts.txt",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/hosts",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/tiktok.com",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/yts.am",
+            "enabled": true
+        }
+    ],
+    "blocked": [
+        {
+            "host": "api.tiktok.com",
+            "enabled": true
+        },
+        {
+            "host": "api16.tiktokv.com",
+            "enabled": true
+        },
+        {
+            "host": "api19.tiktokv.com",
+            "enabled": true
+        },
+        {
+            "host": "log.tiktokv.com",
+            "enabled": true
+        },
+        {
+            "host": "m.tiktok.com",
+            "enabled": true
+        },
+        {
+            "host": "m.youtube.com",
+            "enabled": true
+        },
+        {
+            "host": "tik.com",
+            "enabled": true
+        },
+        {
+            "host": "tiktok.com",
+            "enabled": true
+        },
+        {
+            "host": "v16m.tiktokcdn.com",
+            "enabled": true
+        },
+        {
+            "host": "v19.tiktokcdn.com",
+            "enabled": true
+        },
+        {
+            "host": "ww4.tinyzone.org",
+            "enabled": true
+        },
+        {
+            "host": "www.instagram.com",
+            "enabled": true
+        },
+        {
+            "host": "www.tiktok.com",
+            "enabled": true
+        },
+        {
+            "host": "youtube.com",
+            "enabled": true
+        },
+        {
+            "host": "yta.am",
+            "enabled": true
+        },
+        {
+            "host": "yts.mx",
+            "enabled": true
+        }
+    ],
+    "allowed": [],
+    "redirected": []
+}
